@@ -27,7 +27,7 @@ Schema
 
 ![screenshot](https://github.com/saurav190101/covid-19/blob/main/Screenshot%202024-09-27%20200817.png)
 
-![screenshot](https://github.com/saurav190101/covid-19/blob/main/Screenshot%202024-09-27%20200817.png)
+![screenshot](https://github.com/saurav190101/covid-19/blob/main/Screenshot%202024-09-27%20213841.png)
 
 
  
