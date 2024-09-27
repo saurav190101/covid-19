@@ -25,8 +25,7 @@ Get data from GitHub  link: https://github.com/AlexTheAnalyst/PortfolioProjects/
 
 Schema
 
-
-
+(create table)
 
 
  
