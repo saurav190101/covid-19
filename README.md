@@ -25,7 +25,9 @@ Get data from GitHub  link: https://github.com/AlexTheAnalyst/PortfolioProjects/
 
 Schema
 
-(create table)
+![screenshot](https://github.com/saurav190101/covid-19/blob/main/Screenshot%202024-09-27%20200817.png)
+
+![screenshot](https://github.com/saurav190101/covid-19/blob/main/Screenshot%202024-09-27%20200817.png)
 
 
  
